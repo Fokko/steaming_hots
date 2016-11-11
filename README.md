@@ -1,2 +1,5 @@
 # steaming_hots
-repo to demonstrate streaming game imbalance 
+
+Repo to demonstrate streaming game imbalance
+
+To run and test your application use SBT invoke: 'sbt run'
